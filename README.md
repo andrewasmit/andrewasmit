@@ -1,4 +1,4 @@
-# 👋 Hi! My name is Andrew:
+# 👋  Hi,  I'm Andrew !
 I am a highly motivated full-stack developer that is a life-long learner with a proven track record of meeting deadlines & delivering high-quality products. My 9 years of experience as a band director has given me a strong foundation in problem-solving, critical thinking, & working within a collaborative team-environment. I am now seeking an opportunity to leverage my skills & experience as a software developer to contribute to a team that prioritizes community & helping others.
 
 
