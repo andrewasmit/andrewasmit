@@ -1,5 +1,5 @@
 # 👋  Hi,  I'm Andrew !
-I am a highly motivated full-stack developer that is a life-long learner with a proven track record of meeting deadlines & delivering high-quality products. My 9 years of experience as a band director has given me a strong foundation in problem-solving, critical thinking, & working within a collaborative team-environment. I am now seeking an opportunity to leverage my skills & experience as a software developer to contribute to a team that prioritizes community & helping others.
+I am a highly motivated full-stack developer with a proven track record of meeting deadlines & delivering high-quality products. With 9 years of experience as a band director, I have excelled at orchestrating complex projects, cultivating talent within myself & others, while fostering a creative, disciplined approach to problem-solving. I am now seeking an opportunity to leverage my strong organizational, communication, & team-building skills to excel as a software engineer while bringing a unique perspective & passion for precision to the development process.
 
 
 ## 🌐 Socials:
