@@ -1,5 +1,5 @@
 # 👋  Hi,  I'm Andrew !
-I am a highly motivated software developer with a proven track record of meeting deadlines & delivering high-quality products. I contribute to teams by helping orchestrating complex projects, fostering a creative and disciplined approach to problem-solving, always seeking growth, and generally just being a person who is easy to work with.[![Let's connect](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewasmit)
+I am a highly motivated software developer with a proven track record of meeting deadlines & delivering high-quality products. I contribute to teams by helping orchestrating complex projects, fostering a creative and disciplined approach to problem-solving, always seeking growth, and generally just being a person who is easy to work with. [Let's connect](https://linkedin.com/in/andrewasmit)
 
 
 ## 🌐 Blog: [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@andrewasmit) 
